@@ -21,7 +21,7 @@
 
 <!-- 数据展示-主题&theme=radical-->
 <!-- <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp; -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinzann&theme=radical&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinzann&theme=radical&hide_border=true" />
 <!-- &emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" /> -->
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
