@@ -71,14 +71,7 @@
 
 ---
 <!-- GitHub 奖杯🏆 -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-profile-achievements.vercel.app/?username=Dinzann&theme=tokyonight" height="150" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Dinzann&show_icons=true&theme=radical&rank_icon=github" height="150" /></td>
-    </tr>
-  </table>
-</div>
+
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/Dinzann?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 ---
 
