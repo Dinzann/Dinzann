@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinzann&show_icons=true&theme=radical" alt="Dinzann's Stats" />
-</p>
-
 <!--
  * @Author: royal-killer 3262503160@qq.com
  * @Date: 2025-05-11 18:14:48
