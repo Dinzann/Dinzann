@@ -41,21 +41,9 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Dinzann&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-	
----
-<!--
-**shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
 <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
 </a>
@@ -84,7 +72,7 @@ Here are some ideas to get you started:
 ---
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=Dinzann&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+	<img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /><br>
 </div>
 ---
 
