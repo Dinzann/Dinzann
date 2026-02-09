@@ -133,10 +133,10 @@
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Dinzann&theme=xcode" /> </div> -->
 <!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinzann" /> </div>  -->
 
-<H2>Favorite❤️Movie</H2>
-<div align="center">
-<img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
-</div>
+<!-- <H2>Favorite❤️Movie</H2> -->
+<!-- <div align="center"> -->
+<!-- <img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true"> -->
+<!-- </div> -->
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
