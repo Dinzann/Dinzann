@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dinzann)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinzann&show_icons=true&theme=radical" alt="Dinzann's Stats" />
+</p>
 
 <!--
  * @Author: royal-killer 3262503160@qq.com
