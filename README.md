@@ -71,11 +71,11 @@
 
 ---
 <!-- GitHub 奖杯🏆 -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Dinzann&theme=onedark" alt="Dinzann's GitHub Trophies" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dinzann&theme=onedark" alt="Dinzann's Trophies" />
+  </a>
+</p>
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/Dinzann?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
